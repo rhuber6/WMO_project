@@ -1,7 +1,7 @@
 # WMO_project
 These are the scripts I used when doing the WMO project. I am putting them here in hopes they can be helpful when the project is done again in the future. All the files are on box under WMO State of Water
 
-##Basic Work Flow followed:
+## Basic Work Flow followed:
 
 1. Intersect points with hydro tdx basins on arcgis/qgis to get the hydrobasin that corresponds with each point - or use intersect_grdc.py
 2. Seperate the points into their corresponding basins by making a csv for each one.  The code for this should be in seperate.py and just the directories will need to be changed.
