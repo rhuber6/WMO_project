@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9df2a32-a712-4ece-81a7-e356e7418930" name="Changes" comment="FIrst commit">
-      <change afterPath="$PROJECT_DIR$/seperate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/skipped_ratio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/change_points.py" beforeDir="false" afterPath="$PROJECT_DIR$/find_skipped.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upstream.py" beforeDir="false" afterPath="$PROJECT_DIR$/upstream.py" afterDir="false" />
-    </list>
+    <list default="true" id="a9df2a32-a712-4ece-81a7-e356e7418930" name="Changes" comment="Added files and fixed formatting" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681239622407</updated>
       <workItem from="1681239624905" duration="16918000" />
-      <workItem from="1682708601758" duration="3256000" />
+      <workItem from="1682708601758" duration="3580000" />
     </task>
     <task id="LOCAL-00001" summary="FIrst commit">
       <created>1682709147051</created>
@@ -90,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682709147051</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added files and fixed formatting">
+      <created>1682712554010</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682712554010</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="FIrst commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="FIrst commit" />
+    <MESSAGE value="Added files and fixed formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added files and fixed formatting" />
   </component>
 </project>
